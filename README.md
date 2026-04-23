@@ -136,7 +136,7 @@ Developed as a hands-on Data Engineering project focused on building production-
 
 This screenshot shows the ETL pipeline execution in Databricks, including data transformations, logging, and final output stored in the Gold layer.
 
-![Pipeline Execution](./images/databricks_pipeline.png)
+![Pipeline Execution](./databricks_pipeline.png)
 
 ---
 
@@ -281,4 +281,4 @@ Proyecto desarrollado como práctica de Data Engineering orientada a portfolio.
 
 Esta imagen muestra la ejecución del pipeline ETL en Databricks, incluyendo las transformaciones de datos, logs y el resultado final almacenado en la capa Gold.
 
-![Ejecución del Pipeline](./images/databricks_pipeline.png)
+![Ejecución del Pipeline](./databricks_pipeline.png)
