@@ -277,3 +277,8 @@ Salida final:
 Proyecto desarrollado como práctica de Data Engineering orientada a portfolio.
 
 ---
+## 📸 Ejemplo de ejecución del pipeline
+
+Esta imagen muestra la ejecución del pipeline ETL en Databricks, incluyendo las transformaciones de datos, logs y el resultado final almacenado en la capa Gold.
+
+![Ejecución del Pipeline](./images/databricks_pipeline.png)
