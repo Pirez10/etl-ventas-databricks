@@ -132,8 +132,13 @@ etl-ventas-databricks/
 Developed as a hands-on Data Engineering project focused on building production-like pipelines using modern tools and best practices.
 
 ---
+## 📸 Pipeline Execution Example
 
+This screenshot shows the ETL pipeline execution in Databricks, including data transformations, logging, and final output stored in the Gold layer.
 
+![Pipeline Execution](./images/databricks_pipeline.png)
+
+---
 
 ---
 # 📊 ETL de Ventas con PySpark en Databricks
